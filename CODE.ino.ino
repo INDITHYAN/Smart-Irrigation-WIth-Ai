@@ -61,7 +61,7 @@ unsigned long manualPumpTimeLimit = 600000;
 #define VP_TIME      V11
 
 // ====================== YOUR GEMINI API KEY ======================
-const char* GEMINI_API_KEY = "AIzaSyA3WUzGfZoCIgvzHjL1VHva3jl0mr2gc74";   // ← Updated
+const char* GEMINI_API_KEY = "";  
 
 BlynkTimer timer;
 Preferences prefs;
