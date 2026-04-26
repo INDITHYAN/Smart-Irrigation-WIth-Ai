@@ -40,8 +40,6 @@ AI integration allows smart interaction and decision support.
 - Assisted in ESP32 programming and IoT integration
 - Helped in system design and testing
 
-## 📸 Output
-(Add images here)
 
 ## 🔮 Future Improvements
 - Weather API integration
